@@ -11,7 +11,7 @@ function App() {
   function InputChange(event) {
     const elementName = event.target.name;
     const elementValue = event.target.value;
-
+    //console.log(event.target);
     setFullName(prevValue => {
       if (elementName === "fname") {
         return {
