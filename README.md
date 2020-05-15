@@ -1,2 +1,0 @@
-# EventhandlingReactComplexComponents
-Created with CodeSandbox
